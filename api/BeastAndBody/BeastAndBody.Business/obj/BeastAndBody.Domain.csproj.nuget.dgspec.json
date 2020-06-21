@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj": {}
+    "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj": {
+    "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj",
         "projectName": "BeastAndBody.Domain",
-        "projectPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj",
-        "packagesPath": "C:\\Users\\ferre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\obj\\",
+        "projectPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\BeastAndBody.Domain.csproj",
+        "packagesPath": "C:\\Users\\11700059\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ferre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\11700059\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

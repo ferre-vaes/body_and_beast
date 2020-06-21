@@ -2,3 +2,15 @@ C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Da
 C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.csprojAssemblyReference.cache
 C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.AssemblyInfoInputs.cache
 C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.AssemblyInfo.cs
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\bin\Debug\netcoreapp3.1\BeastAndBody.Data.deps.json
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\bin\Debug\netcoreapp3.1\BeastAndBody.Data.runtimeconfig.json
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\bin\Debug\netcoreapp3.1\BeastAndBody.Data.runtimeconfig.dev.json
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\bin\Debug\netcoreapp3.1\BeastAndBody.Data.dll
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\bin\Debug\netcoreapp3.1\BeastAndBody.Data.pdb
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.csprojAssemblyReference.cache
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.AssemblyInfoInputs.cache
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.AssemblyInfo.cs
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.csproj.CoreCompileInputs.cache
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.dll
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.pdb
+C:\Users\11700059\Desktop\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.genruntimeconfig.cache
