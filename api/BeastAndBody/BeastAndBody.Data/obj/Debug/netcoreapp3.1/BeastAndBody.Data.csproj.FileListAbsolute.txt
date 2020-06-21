@@ -1,0 +1,4 @@
+C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\bin\Debug\netcoreapp3.1\BeastAndBody.Domain.dll
+C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.AssemblyInfoInputs.cache
+C:\Users\ferre\Desktop\Projecten\body_and_beast\api\BeastAndBody\BeastAndBody.Data\obj\Debug\netcoreapp3.1\BeastAndBody.Data.AssemblyInfo.cs
