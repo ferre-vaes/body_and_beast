@@ -2270,7 +2270,7 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+      "sha512": "NoPBj0ykejqAWW4p4gGtrrL+3c84ZLSvGnHgq422ew1Rj4WKj1FA8/BCybqC111EtgcqUl6ZJNFYYS22HLgbjA==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
@@ -2455,7 +2455,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -2919,6 +2919,7 @@
       "path": "system.io/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4875,6 +4876,7 @@
       "path": "system.xml.readerwriter/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5130,23 +5132,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\11700059\\.nuget\\packages\\": {},
+    "C:\\Users\\ferre\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
       "projectName": "BeastAndBody.Data",
-      "projectPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
-      "packagesPath": "C:\\Users\\11700059\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\obj\\",
+      "projectPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
+      "packagesPath": "C:\\Users\\ferre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\11700059\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ferre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

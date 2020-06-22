@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj": {}
+    "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj": {
+    "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj",
+        "projectUniqueName": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj",
         "projectName": "BeastAndBody.API",
-        "projectPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj",
-        "packagesPath": "C:\\Users\\11700059\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\obj\\",
+        "projectPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\BeastAndBody.API.csproj",
+        "packagesPath": "C:\\Users\\ferre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\11700059\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ferre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj": {
-                "projectPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj"
+              "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj": {
+                "projectPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj"
               }
             }
           }
@@ -50,6 +50,16 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -74,20 +84,20 @@
         }
       }
     },
-    "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj": {
+    "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
         "projectName": "BeastAndBody.Data",
-        "projectPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
-        "packagesPath": "C:\\Users\\11700059\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\11700059\\Desktop\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\obj\\",
+        "projectPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\BeastAndBody.Data.csproj",
+        "packagesPath": "C:\\Users\\ferre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferre\\Desktop\\Projecten\\body_and_beast\\api\\BeastAndBody\\BeastAndBody.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\11700059\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ferre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

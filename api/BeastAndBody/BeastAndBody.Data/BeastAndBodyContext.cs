@@ -16,10 +16,6 @@ namespace BeastAndBody.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<Activity>()
-                .HasOne(a => a.Coach)
-                .WithOne(a => a.Activity);
-
-            builder.Entity<Activity>()
                 .HasMany(a => a.Clients)
                 .WithOne(a => a.Activity);
 
