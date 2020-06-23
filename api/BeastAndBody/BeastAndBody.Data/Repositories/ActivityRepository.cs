@@ -43,7 +43,7 @@ namespace BeastAndBody.Data.Repositories
 
         public Activity Delete(int id)
         {
-            var activity = _context.Activities.FirstOrDefault(a => a.Id == id);
+            var activity = _context.Activities.FirstOrDefault(a => a.ActivityId == id);
             if (activity != null)
             {
                 _context.Activities.Remove(activity);

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BeastAndBody.API.Settings;
 using BeastAndBody.Data;
 using BeastAndBody.Data.Models;
 using BeastAndBody.Data.Repositories;
@@ -52,6 +53,8 @@ namespace BeastAndBody.API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Body & Beast", Version = "v1" });
             });
+
+            services.Configure<TokenSettings>(Configuration.GetSection("Token"));
 
             services.AddScoped<IActivityRepository, ActivityRepository>();
         }

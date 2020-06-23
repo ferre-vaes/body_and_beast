@@ -3,20 +3,22 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
+using BeastAndBody.Data.Models.Enums;
 
 namespace BeastAndBody.Data.Models
 {
-    public class Activity
+    public class Follow
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public int FollowId { get; set; }
+
         [Required]
-        public string Name { get; set; }
+        public int ActivityId { get; set; }
+
         [Required]
-        public DateTime Time { get; set; }
-        public string Rules { get; set; }
-        public ICollection<ApplicationUser> Clients { get; set; }
+        public int ApplicationUserId { get; set; }
+
         [Required]
-        public string Location { get; set; }
+        public FollowType Type { get; set; }
     }
 }
